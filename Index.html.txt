@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Clasificación 1ª División Española</h1>
+ </head>
+ <body>
+   <caption>Liga Santander</caption>
+  <table>
+      <tr>
+  <caption>Temporada 2019-20</caption>
+  <th>
+  <td>Puesto</td>
+  <td>Club</td>
+  <td>Puntos totales</td>
+  <td>Partidos ganados</td>
+  <td>Partidos perdidos</td>
+  <td>Puntos empatados</td>
+  <td>Goles a favor</td>
+  <td>Goles en contra</td>
+</th>
+<tr>
+  <td>1td>
+  <td>Ath. Bilbao</td>
+  <td>7</td>
+  <td>2</td>
+  <td>0</td>
+  <td>1</td>
+  <td>4</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>Sevilla</td>
+  <td>7</td>
+  <td>2</td>
+  <td>0</td>
+  <td>1</td>
+  <td>4</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>Levante</td>
+  <td>6</td>
+  <td>2</td>
+  <td>0</td>
+  <td>1</td>
+  <td>4</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>Atl. Madrid</td>
+  <td>6</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
+  <td>0</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Osasuna</td>
+  <td>5</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td>
+  <td>3</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>Alavés</td>
+  <td>5</td>
+  <td>1</td>
+  <td>2</td>
+  <td>0</td>
+  <td>2</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>Barcelona</td>
+  <td>4</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td>
+  <td>7</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>Real Madrid</td>
+  <td>4</td>
+  <td>1</td>
+  <td>1</td>
+  <td>0</td>
+  <td>4</td>
+  <td>2</td>
+</tr>
+  </table>
+ </body>
+</html>
